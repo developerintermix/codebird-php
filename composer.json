@@ -1,12 +1,12 @@
 {
-    "name": "jublonet/codebird-php",
+    "name": "intermixdevelopers/codebird-php",
     "description" : "Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads API — all from one PHP library.",
     "keywords": [
         "Twitter",
         "API",
         "networking"
     ],
-    "homepage": "https://www.jublo.net/projects/codebird/php",
+    "homepage": "https://github.com/developerintermix/codebird-php/tree/v1.1.0",
     "license": "GPL-3.0+",
     "authors": [
         {
@@ -20,13 +20,14 @@
             "email": "jm@jublo.net",
             "homepage": "http://mynetx.net/",
             "role": "Developer"
+        },
+        {
+            "name": "A.M.",
+            "email": "adriaan@intermix.nl",
+            "homepage": "https://intermix.nl",
+            "role": "Developer"
         }
     ],
-    "support": {
-        "email": "support@jublo.net",
-        "issues": "https://github.com/jublonet/codebird-php/issues",
-        "source": "https://github.com/jublonet/codebird-php/releases"
-    },
     "require": {
         "php": ">=5.5.0",
         "ext-hash": "*",
